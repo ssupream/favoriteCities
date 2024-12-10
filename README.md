@@ -59,8 +59,6 @@ bun dev
 
 Then, open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
 ## 🔐 Authentication
 
 This app features secure authentication so users can create an account, log in, and save their favorite cities. The authentication flow is built with industry best practices to keep user data secure.
@@ -79,7 +77,7 @@ This app features secure authentication so users can create an account, log in, 
 ## 🛠️ Features
 
 - **Search for Cities**: Find information on any city in the world.
-- **View City Details**: See essential city data like weather, population, and history.
+- **View City Details**: See essential city data like weather and history.
 - **Plan a Journey**: (🚧 Work in progress) Plan and visualize your travel route.
 
 ---
